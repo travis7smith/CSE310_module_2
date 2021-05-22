@@ -8,6 +8,7 @@ Here is a video walkthrough of my code: [Software Demo Video](https://youtu.be/g
 
 * Visual Studio Code
 * Python 3.8.5 32-bit
+* Google Cloud Firestone/Firestore
 * Git / GitHub
 
 # Useful Websites
